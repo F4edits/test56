@@ -4,11 +4,11 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<b>🙋‍♂️Hello {}!!</b>
 
-<b>I am a Pro AutoFilterBot V2....😜</b>
+<b>my name is spider man and am the group manager bot of f4 & gk movies....</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
+<b>you cant add me to any group...</b>
 
 <b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
 
